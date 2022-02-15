@@ -1,2 +1,6 @@
-console.log("hello world")
-console.log("I said, HELLO WORLD!")
+// for loop count to 10
+
+
+for(let i = 0; i<=10; i++){
+  console.log(i)
+}
